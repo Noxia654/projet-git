@@ -2,4 +2,8 @@ Gaël
 Rise
 Monster
 Hunter
+<<<<<<< HEAD
 YO
+=======
+Dark
+>>>>>>> 8ea60d350aa4459a4f052eb120327cc4a9c7ce63
