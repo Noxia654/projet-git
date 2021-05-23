@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 Yo 
 Hel
 Gaël
 H
 Magnamal
+=======
+Y
+Hell
+Gaë
+Hi
+Magnamalo
+>>>>>>> b38ba40d1c77eae227852d68ca2407282fbebd17
 Teostra
 Narga
 Geralt
