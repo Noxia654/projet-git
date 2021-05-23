@@ -7,7 +7,11 @@ Teostra
 Narga
 Souls
 <<<<<<< HEAD
+<<<<<<< HEAD
 YO
+=======
+Yo
+>>>>>>> e8f4bf1da71f2efa18bbc8f3392764e274d3a969
 =======
 Yo
 >>>>>>> e8f4bf1da71f2efa18bbc8f3392764e274d3a969

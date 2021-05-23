@@ -4,10 +4,14 @@ Monster
 Hunter
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 YO
 =======
 Dark
 >>>>>>> 8ea60d350aa4459a4f052eb120327cc4a9c7ce63
+=======
+Dark
+>>>>>>> e8f4bf1da71f2efa18bbc8f3392764e274d3a969
 =======
 Dark
 >>>>>>> e8f4bf1da71f2efa18bbc8f3392764e274d3a969
